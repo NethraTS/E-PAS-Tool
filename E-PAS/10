@@ -1,0 +1,48 @@
+addadmins.php://$flag=0;
+dashoboard.php:$panelflag=1;
+dashoboard.php:$panelflag=2;
+dashoboard.php:$panelflag=3;
+dashoboard.php:$panelflag=4;
+dashoboard.php~:$panelflag=1;
+dashoboard.php~:$panelflag=2;
+dashoboard.php~:$panelflag=3;
+dashoboard.php~:$panelflag=4;
+deadlines.php:$SADflag=$f->findOne(array("name"=>"SAdeadlineOver"));
+deadlines.php:$ESADflag=$f->findOne(array("name"=>"ESAdeadlineOver"));
+deadlines.php~:$SADflag=$f->findOne(array("name"=>"SAdeadlineOver"));
+deadlines.php~:$ESADflag=$f->findOne(array("name"=>"ESAdeadlineOver"));
+employeegoalsreview.php:$flag=$doc['flag'];
+employeegoalsreview.php~:$flag=$doc['flag'];
+review1form2.php:var flag="<?php echo $f; ?>";
+review1form2.php:if(flag==2)      	
+review1form2.php:else if(flag==3)
+review1form2.php:else if(flag==4)
+review1form2.php~:var flag="<?php echo $f; ?>";
+review1form2.php~:if(flag==2)      	
+review1form2.php~:else if(flag==3)
+review1form2.php~:else if(flag==4)
+review2form2.php:var flag="<?php echo $f; ?>";
+review2form2.php:if(flag==2 || flag==3)
+review2form2.php:else if(flag==4)
+review2form2.php~:var flag="<?php echo $f; ?>";
+review2form2.php~:if(flag==2 || flag==3)
+review2form2.php~:else if(flag==4)
+review3form2.php:var flag="<?php echo $f; ?>";
+review3form2.php:if(flag==2 || flag==3)
+review3form2.php:else if(flag==4)
+review3form2.php~:var flag="<?php echo $f; ?>";
+review3form2.php~:if(flag==2 || flag==3)
+review3form2.php~:else if(flag==4)
+setgoals.php:$flag=$doc["flag"];
+setgoals.php:$flag=
+setgoals.php:$flag=$doc['flag'];
+setgoals.php~:$flag=$doc["flag"];
+setgoals.php~:$flag=
+setgoals.php~:$flag=$doc['flag'];
+test1.php:$SADflag=$f->findOne(array("name"=>"SAdeadlineOver"));
+test1.php:$ESADflag=$f->findOne(array("name"=>"ESAdeadlineOver"));
+user0page.php:$flag=0;
+user0page.php:   $flag=1;
+user0page.php:if($flag==1)
+user0page.php:if($flag==1)
+user0page.php:if($flag==1)
